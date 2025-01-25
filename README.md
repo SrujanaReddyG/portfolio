@@ -9,6 +9,7 @@ Full Stack Developer with expertise in React.js, Redux, Spring Boot, Node.js, an
 CLIENT: SAMS CLUB							    		(DEC 2023 – PRESENT)
 LOCATION: BENTONVILLE, ARKANSAS
 ROLE: JAVA FULL STACK DEVELOPER
+
 At Sam's Club, I worked on developing a Membership Management Portal as a Full Stack Developer. Using React.js and Redux, I designed responsive, user-friendly interfaces for member sign-ups, renewals, and dashboards. At the same time, the backend was built with Spring Boot and Node.js, ensuring secure APIs and efficient data processing. I managed databases using PostgreSQL for structured data and MongoDB for activity logs. The application was hosted on AWS, leveraging EC2, S3, and RDS, with CI/CD pipelines automated using Jenkins and containerized deployments with Docker. Additionally, I integrated Splunk for monitoring and New Relic for performance optimization, resulting in a highly scalable solution that reduced processing times by 40% and improved user satisfaction.
 
 CLIENT: WALMART									(OCT 2021 – NOV 2023)	
