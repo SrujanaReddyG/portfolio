@@ -1,6 +1,9 @@
 Name: Sai Srujana Reddy Gutha
+
 Email: saisrujanareddyg@gmail.com
+
 Ph#: 945-234-1507
+
 LinkedIn: www.linkedin.com/in/saisrujanagutha
 
 
