@@ -5,9 +5,9 @@
 ## SAI SRUJANA REDDY GUTHA
 # Java Full Stack Developer
 
-*Contact Information*:
-- *Email*: saisrujanareddyg@gmail.com
-- *Phone*: 945-234-1507
+# Contact Information*:
+- Email: saisrujanareddyg@gmail.com
+- Phone: 945-234-1507
 
 
 # About Me
