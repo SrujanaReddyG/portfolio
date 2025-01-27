@@ -7,6 +7,7 @@ Ph#: 945-234-1507
 LinkedIn: www.linkedin.com/in/saisrujanagutha
 
 
+
 Full Stack Developer with expertise in React.js, Redux, Spring Boot, Node.js, and modern cloud technologies like AWS (EC2, S3, RDS). I specialize in building scalable, user-friendly applications and optimizing performance using tools like Docker, Jenkins, and Splunk. I developed a Membership Management Portal at Sam's Club that improved system efficiency by 40%. Passionate about creating impactful solutions and driving innovation.
 
 CLIENT: SAMS CLUB							    		(DEC 2023 – PRESENT)
