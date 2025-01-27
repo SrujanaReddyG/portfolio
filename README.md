@@ -1,4 +1,6 @@
-NAME: Sai Srujana Reddy Gutha
+<img src="https://github.com/SrujanaReddyG/portfolio/blob/97d1cb1b3de05f90a04fe1e7688a9d58cfd233d2" alt="Profile Picture" width="200" height="200>
+
+NAME: Sai Srujana Reddy Gutha[
 
 EMAIL: saisrujanareddyg@gmail.com
 
